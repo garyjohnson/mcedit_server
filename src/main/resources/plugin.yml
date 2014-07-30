@@ -1,0 +1,3 @@
+name: mcedit_server
+main: com.sparkbarn.mcedit_server.mcedit_server
+version: 1.0
